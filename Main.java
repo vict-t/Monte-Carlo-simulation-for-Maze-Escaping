@@ -24,8 +24,7 @@ public class Main {
         int success = 0;
         int initialCol = 0, initialRow = 0;
         double rand;
-        Mouse m1 = new Mouse();
-        Maze obj1 = new Maze();
+        MazeEsp obj1 = new MazeEsp();
 
         int col = 0;
         int row = 0;
