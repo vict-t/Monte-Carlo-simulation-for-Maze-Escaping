@@ -1,4 +1,4 @@
-package maze;
+package mazeEscaping;
 
 import java.text.DecimalFormat;
 
