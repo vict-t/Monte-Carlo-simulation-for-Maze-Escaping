@@ -53,6 +53,11 @@ public class Maze {
         
         return (!left && !right && !up && !down);
     }
+        
+    public double randomDirection() {
+        Random r = new Random();
+        return r.nextDouble();
+    }
 
     //method for displaying route
     public void Print() {
