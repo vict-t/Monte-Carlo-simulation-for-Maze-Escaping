@@ -11,4 +11,4 @@ A mouse is trying to escape from a maze where it starts moving from the top-left
 
 ![image](https://user-images.githubusercontent.com/44689459/168558078-eb0341e4-7ecf-4118-9ea5-6a92e75e5fcb.png)
 
-This is a java simulation program using the **Monte Carlo method** to estimate the probability (P) of the mouse successfully escaping from the maze. It simulate the success escape rate that the mouse run one million times.
+This is a java simulation program using the **Monte Carlo method** to estimate the probability (P) of the mouse successfully escaping from the maze. It simulates the success escape rate that the mouse run one million times.
