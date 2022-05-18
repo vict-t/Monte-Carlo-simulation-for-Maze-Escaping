@@ -1,9 +1,4 @@
-package mazeEscaping;
 
-/**
- *
- * @author vict-t
- */
 public class Maze {
         
   int maze[][]
