@@ -1,9 +1,5 @@
 import java.text.DecimalFormat;
 
-/**
- *
- * @author vict-t
- */
 public class Main {
 
     public static void main(String[] args) {
