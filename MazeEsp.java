@@ -1,5 +1,5 @@
 
-public class Maze {
+public class MazeESP {
         
   int maze[][]
             = {{0, 0, 0, 0, 0, 0, 0},
